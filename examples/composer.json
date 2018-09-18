@@ -1,0 +1,7 @@
+{
+  "require": {
+    "php": ">=7.0",
+    "lourenssystems/smartbusiness-api2-php": "2.2",
+    "fzaninotto/faker": "^1.7"
+  }
+}
