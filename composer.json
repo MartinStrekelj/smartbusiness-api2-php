@@ -15,8 +15,14 @@
       "smartbusiness\\api2\\": "src/"
     }
   },
+  "repositories": [
+    {
+      "type": "github",
+      "url": "https://github.com/alorian/api-wrapper"
+    }
+  ],
   "require": {
     "php": ">=7.0",
-    "lourenssystems/api-wrapper": "2.1"
+    "lourenssystems/api-wrapper": "dev-guzzle-7 as 2.1"
   }
 }
